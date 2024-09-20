@@ -2,15 +2,17 @@
     margin: 0;
     padding: 0;
 }
-
+h1{
+    color: orangered;
+}
 
 .ptable table{
     margin: 30px auto;
+    
 }
 
 .ptable{
-    margin: 250px 0% 30px 0%;
-    
+    margin: 250px  30px ;
 }
 
 th, td{
@@ -24,10 +26,10 @@ img{
     text-align: center;
 }
 
-.wpos{
+.twee{
     text-align: center;
 }
-.pos{
+.een{
     text-align: center;
 }
 
