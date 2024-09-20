@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.ptable table{
+    margin: 30px auto;
+}
+
+.ptable{
+    margin: 250px 0% 30px 0%;
+    
+}
+
+th, td{
+    padding: 10px;
+}
+img{
+    width: 15px;
+}
+
+.headin{
+    text-align: center;
+}
+
+.wpos{
+    text-align: center;
+}
+.pos{
+    text-align: center;
+}
+
+
+th{
+    border-bottom: 2px solid #ddd;
+  }
+
+  td{
+    border-bottom: 1px solid #ddd;
+  }
+
+  th{
+    color: orangered;
+  }
+
+ 
